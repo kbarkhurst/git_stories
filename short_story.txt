@@ -1,5 +1,6 @@
-Hi. This is a story about a boy and a girl.
+Hi, this is a story about a boy and a girl.
 It's a short story. Yes, a very short story.
 There's a beginning, a middle, and a end.
-Wait there's more. The end.
+Wait there's more. 
 And a new line.
+The end.
